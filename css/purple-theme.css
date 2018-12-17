@@ -1,0 +1,42 @@
+/*******    STart Default theme    *******/
+
+::selection,
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.dropdown-menu>li>a:hover,
+.dropdown-menu .divider,
+.option-box .color-option ul li,
+.option-box .check,
+.option-boxx .fa,
+.carousel-indicators .active {
+    background-color: #ff09ab
+}
+
+.dropdown-menu .divider,
+.navbar-brand span,
+.about h1 span,
+h2 span,
+.testimonials span,
+.footer h3,
+.our-team .person i:hover,
+.subscribe h1,
+.scroll-top a,
+.footer .copy-right span  {
+    color: #ff09ab
+}
+
+.option-box .color-option,
+.testimonials .carousel-indicators li.active {
+    border: 4px solid #ff09ab
+}
+
+.contact-us textarea:focus,
+.contact-us input[type="text"]:focus {
+    box-shadow: 0px 0px 30px 0px #ff09ab;
+}
+
+.scroll-top a:hover{
+    color:#650043
+}
+/*******    End default theme  *******/
